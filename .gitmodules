@@ -1,0 +1,3 @@
+[submodule "practice-commons"]
+	path = practice-commons
+	url = https://github.com/sanskar-mk2/practice-commons.git
